@@ -1,3 +1,7 @@
+# libfreenect/Topography
+
+The goal of this fork is to create a specific C demo whereby the libfreenect library is used to generate a topographical mapping of the kinect's input. 
+
 libfreenect
 ===========
 
